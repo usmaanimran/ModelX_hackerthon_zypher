@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Dementia+Prediction+AI;ModelX+Hackathon;Engineered+By+Team+Zypher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Dementia+Prediction+AI;ModelX+Hackathon;Engineered+By+TeamZypher" alt="Typing SVG" />
 </h1>
 
 <p align="center">
